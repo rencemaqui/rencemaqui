@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Reylou Rence Maqui</h1>
 <h3 align="center">An IT Student and aspiring Web developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rencemaqui&label=Profile%20views&color=0e75b6&style=flat" alt="rencemaqui" /> </p>
+
 
 
 <table>
   <tr>
-    <td>You are visitor</td>
+    <td>Visitor count</td>
     <td><img src="https://profile-counter.glitch.me/rencemaqui/count.svg" alt="" /></td>
   </tr>
 </table>
