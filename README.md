@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 <h1 align="center">Hi 👋, I'm Reylou Rence Maqui</h1>
 <h3 align="center">An IT Student and aspiring Web developer from Philippines</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rencemaqui&label=Profile%20views&color=0e75b6&style=flat" alt="rencemaqui" /> </p>
 
 - 🔭 I’m currently working on **Procurement System**
 
