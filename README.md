@@ -22,6 +22,19 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rencemaqui&label=Profile%20views&color=0e75b6&style=flat" alt="rencemaqui" /> </p>
 
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/rencemaqui/count.svg" alt="" /></td>
+  </tr>
+</table>
+
+
+
+
+
+
 - 🔭 I’m currently working on **Procurement System**
 
 - 🌱 I’m currently learning **Web Development**
