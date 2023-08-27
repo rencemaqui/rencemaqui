@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>Visitor count</td>
+    <td>Profile visits</td>
     <td><img src="https://profile-counter.glitch.me/rencemaqui/count.svg" alt="" /></td>
   </tr>
 </table>
